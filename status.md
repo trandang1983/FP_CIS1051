@@ -2,15 +2,15 @@
 
 #### Your name
 
-TODO
+Dang Tran
 
 #### Your section leader's name
 
-TODO
+Dang Tran
 
 #### Project title
 
-TODO
+
 
 ***
 
@@ -18,12 +18,12 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+Create the csv file and test the codes
 
 #### What have you not done for your project yet?
 
-TODO
+Finish the codes
 
 #### What problems, if any, have you encountered?
 
-TODO
+The codes need to be debugged.
