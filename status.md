@@ -10,6 +10,7 @@ Dang Tran
 
 #### Project title
 
+Antibody work-up for human blood using a Python program.
 
 
 ***
